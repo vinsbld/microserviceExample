@@ -6,16 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="config-serveur" />
         <module name="microservice-produits.properties" />
-        <module name="mpaiement" />
-        <module name="mproduits" />
         <module name="clientui" />
         <module name="mcommandes" />
+        <module name="mproduits" />
+        <module name="mpaiement" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="clientui" target="1.8" />
+      <module name="config-server-repo" target="1.5" />
       <module name="config-serveur" target="1.8" />
       <module name="mcommandes" target="1.8" />
       <module name="microservice-produits.properties" target="1.5" />
