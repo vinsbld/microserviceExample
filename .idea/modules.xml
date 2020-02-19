@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/clientui/clientui.iml" filepath="$PROJECT_DIR$/clientui/clientui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-commandes/mcommandes.iml" filepath="$PROJECT_DIR$/microservice-commandes/mcommandes.iml" />
       <module fileurl="file://$PROJECT_DIR$/../config-server-repo/microservice-produits.properties" filepath="$PROJECT_DIR$/../config-server-repo/microservice-produits.properties" />
       <module fileurl="file://$PROJECT_DIR$/microservice-paiement/mpaiement.iml" filepath="$PROJECT_DIR$/microservice-paiement/mpaiement.iml" />

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-produits.properties" />
+        <module name="config-server" />
         <module name="clientui" />
         <module name="mcommandes" />
         <module name="mproduits" />
@@ -15,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="clientui" target="1.8" />
+      <module name="config-server" target="1.8" />
       <module name="config-server-repo" target="1.5" />
       <module name="config-serveur" target="1.8" />
       <module name="mcommandes" target="1.8" />
@@ -26,6 +28,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="clientui" options="-parameters" />
+      <module name="config-server" options="-parameters" />
       <module name="config-serveur" options="-parameters" />
       <module name="mcommandes" options="-parameters" />
       <module name="mpaiement" options="-parameters" />
