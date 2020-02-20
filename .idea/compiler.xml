@@ -9,9 +9,11 @@
         <module name="microservice-produits.properties" />
         <module name="config-server" />
         <module name="clientui" />
+        <module name="zuul-server" />
         <module name="mcommandes" />
         <module name="mproduits" />
         <module name="mpaiement" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,10 +21,12 @@
       <module name="config-server" target="1.8" />
       <module name="config-server-repo" target="1.5" />
       <module name="config-serveur" target="1.8" />
+      <module name="eureka-server" target="1.8" />
       <module name="mcommandes" target="1.8" />
       <module name="microservice-produits.properties" target="1.5" />
       <module name="mpaiement" target="1.8" />
       <module name="mproduits" target="1.8" />
+      <module name="zuul-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -30,9 +34,11 @@
       <module name="clientui" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="config-serveur" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="mcommandes" options="-parameters" />
       <module name="mpaiement" options="-parameters" />
       <module name="mproduits" options="-parameters" />
+      <module name="zuul-server" options="-parameters" />
     </option>
   </component>
 </project>
