@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.projectreactor.addons:reactor-extra:3.3.3.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/addons/reactor-extra/3.3.3.BUILD-SNAPSHOT/reactor-extra-3.3.3.BUILD-20200113.162127-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/addons/reactor-extra/3.3.3.BUILD-SNAPSHOT/reactor-extra-3.3.3.BUILD-20200113.162127-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/projectreactor/addons/reactor-extra/3.3.3.BUILD-SNAPSHOT/reactor-extra-3.3.3.BUILD-20200113.162127-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

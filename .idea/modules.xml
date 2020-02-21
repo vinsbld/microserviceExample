@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/../config-server-repo/microservice-produits.properties" filepath="$PROJECT_DIR$/../config-server-repo/microservice-produits.properties" />
       <module fileurl="file://$PROJECT_DIR$/microservice-paiement/mpaiement.iml" filepath="$PROJECT_DIR$/microservice-paiement/mpaiement.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-produits/mproduits.iml" filepath="$PROJECT_DIR$/microservice-produits/mproduits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-admin/spring-admin.iml" filepath="$PROJECT_DIR$/spring-admin/spring-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
     </modules>
   </component>
